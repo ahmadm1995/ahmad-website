@@ -16,13 +16,13 @@ const projects = [
     link: { href: 'http://planetaria.tech', label: 'shhh' },
     logo: logoPlanetaria,
   },
-  {
-    name: 'CarCommish - CTO',
-    description:
-      'Sales and Commission Tracking Platform built exclusively for the Automotive Industry.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoAnimaginary,
-  },
+  // {
+  //   name: 'CarCommish - CTO',
+  //   description:
+  //     'Sales and Commission Tracking Platform built exclusively for the Automotive Industry.',
+  //   link: { href: '#', label: 'github.com' },
+  //   logo: logoAnimaginary,
+  // },
 ]
 
 function LinkIcon(props) {
